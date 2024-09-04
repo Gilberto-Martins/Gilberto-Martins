@@ -1,7 +1,7 @@
 ### Olá galerinha 👽
 Sou estudnate de Bacharelado em Ciência da computação 😬
 
- <br/> :computer: &nbsp; Minha stack: html, Css(estou esdudando), JavaScript, Java , MySQL, C# ,.Net & React Native (Expo CLI)
+ <br/> :computer: &nbsp; Minha stack: html, Css(estou esdudando), JavaScript, Java , MySQL, C# ,.Net & React Native
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, game CS:GO (ps:só faço morrer sempre, até pra bot 😓 :cry:)
  
  <div align="center">
